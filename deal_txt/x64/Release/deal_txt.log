@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\looklook\code\saltfish\C_CPP\C_C++_code\deal_txt\main.cpp(62,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\looklook\code\saltfish\C_CPP\C_C++_code\deal_txt\main.cpp(77,27): warning C4244: “初始化”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 479 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  deal_txt.vcxproj -> D:\looklook\code\saltfish\C_CPP\C_C++_code\deal_txt\x64\Release\deal_txt.exe
